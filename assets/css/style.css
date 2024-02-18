@@ -1,0 +1,38 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body {
+    background: black;
+    color: white;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1000px;
+}
+
+button {
+    height: 2.3em;
+    width: 5.5em;
+    border: none;
+    color: white;
+    border: 1px solid grey;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.init-btn {
+    background: green;
+}
+
+.pause-btn {
+    background: blue;
+}
+
+.stop-btn {
+    background: red;
+}
+

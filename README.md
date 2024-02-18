@@ -3,4 +3,4 @@ Cronômetro simples feito com HTML, CSS e Javascript e com funções de iniciar,
 
 <img src="capturadetela.PNG">
 
-Acesse aqui: 
+Acesse aqui: https://nathyalves.github.io/cronometro/
